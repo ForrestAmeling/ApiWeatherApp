@@ -1,0 +1,141 @@
+body {
+  background-repeat: no-repeat;
+  background-image: url('https://images.unsplash.com/photo-1432071315934-33a387ee0437?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=3c71ae1096b49e93615f91a1319bddc9');
+  background-size: auto 100%;
+  text-align: center;
+}
+
+.backgroundClear {
+  background-image: url('https://images.unsplash.com/photo-1476611338391-6f395a0ebc7b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=e444d875e55debddc2319c386d96df90');
+}
+
+.backgroundClouds {
+  background-image: url('https://images.unsplash.com/photo-1445264618000-f1e069c5920f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=134538e6eb056c392a2625d747c4ce86');
+}
+
+.backgroundDrizzle {
+  background-image: url('https://images.unsplash.com/photo-1466454709953-f4b128c56f48?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=a3f14eee2d82168100d4a06099eee457');
+}
+
+.backgroundRain {
+  background-image: url('https://images.unsplash.com/photo-1438260483147-81148f799f25?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=4c7b41f1f26a910cbe8f726d73694375');
+}
+
+.backgroundThunderstorm {
+  background-image: url('https://images.unsplash.com/photo-1457528877294-b48235bdaa68?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=d7d06ab1113e5f485ce76be8d5ca1c45');
+}
+
+.backgroundSnow {
+  background-image: url('https://images.unsplash.com/photo-1446463969211-28bf6e20b315?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=22cb48be399ce72afa17aaad2e3c5719');
+}
+
+.backgroundAtmosphere {
+  background-image: url('https://images.unsplash.com/photo-1470274130023-64addc574eaf?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=0035018e1355e24990b88abbe4b4f500');
+}
+
+.backgroundExtreme {
+  background-image: url('https://images.unsplash.com/photo-1475776408506-9a5371e7a068?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=736d477680d6182a9322ce967a2825cc');
+}
+
+.backgroundAdditional {
+  background-image: url('https://images.unsplash.com/photo-1432071315934-33a387ee0437?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=3c71ae1096b49e93615f91a1319bddc9');
+}
+
+.backgroundDef {
+  background-image: url('https://images.unsplash.com/photo-1432071315934-33a387ee0437?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=3c71ae1096b49e93615f91a1319bddc9');
+}
+
+h1, h2 {
+  color: white;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.blockHead {
+  margin-top: 45px;
+  background: rgba(0, 0, 0, 0.6);
+  text-align: left;
+}
+
+.blockHead p {
+  color: white;
+  font-size: 18px;
+  font-weight: 800;
+  margin: 0;
+  padding: 14px 20px;
+  text-transform: uppercase;
+}
+
+.blockBody {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.temp {
+  display: inline-block;
+  font-size: 108px;
+  font-weight: 800;
+  margin: 0;
+  padding: 0 20px;
+  vertical-align: top;
+}
+
+.additional {
+  display: inline-block;
+  padding: 20px 50px;
+  vertical-align: top;
+  font-size: 20px;
+  margin: 0;
+}
+
+.icon-block {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.box, .boxTwo {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: inline-block;
+  margin-top: 45px;
+  border: solid;
+  padding: 10px;
+}
+
+.footer {
+  background-color: grey;
+  padding-top: 0.3%;
+  display: block;
+  margin-top: 62%;
+}
+
+.btn-default {
+  background-color: rgb(96, 96, 96);
+  color: RGB(28, 169, 201);
+}
+
+#linkedinIcon {
+  color: RGB(0, 123, 182);
+}
+
+#githubIcon {
+  color: rgb(110, 84, 148);
+}
+
+#freecodecampIcon {
+  color: rgb(74, 116, 44);
+}
+
+#codepenIcon {
+  color: RGB(59, 59, 59);
+}
+
+#twitterIcon {
+  color: RGB(0, 172, 237);
+}
+
